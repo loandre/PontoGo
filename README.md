@@ -46,6 +46,10 @@ Este projeto foi concebido como uma resposta ao desafio proposto pela empresa Po
 https://github.com/loandre/pontogo/assets/135539245/c05ce778-573f-434a-b273-4be6874140d5
 
 
+## 📝 Notas Importantes
+
+> **Segurança**: Para garantir a segurança do projeto e dos dados da empresa, alteramos a chave do token. Esta medida é crucial para manter a integridade e a confidencialidade das informações manipuladas pela aplicação.
+
 # 💻 Como Executar o Projeto
 
 Para executar o projeto localmente, siga os passos abaixo:
