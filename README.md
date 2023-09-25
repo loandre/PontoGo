@@ -42,7 +42,8 @@ Este projeto foi concebido como uma resposta ao desafio proposto pela empresa Po
 
 ## 🖥️ Vídeo mostrando a interface do Projeto
 
-https://github.com/loandre/pontogo/assets/135539245/8b59a03c-be83-46ae-9498-92aa993281a4
+
+https://github.com/loandre/pontogo/assets/135539245/c05ce778-573f-434a-b273-4be6874140d5
 
 
 # 💻 Como Executar o Projeto
